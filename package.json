@@ -1,7 +1,7 @@
 {
   "name": "@fjordcleanup/trash-proto",
   "version": "0.0.0-development",
-  "description": "Protocol defintions for the application.",
+  "description": "Protocol definitions for the application.",
   "homepage": "https://github.com/fjordcleanup/trash-proto#readme",
   "bugs": {
     "url": "https://github.com/fjordcleanup/trash-proto/issues"
