@@ -1,4 +1,4 @@
-import type { ULID } from '#event/AggregateEvent.ts'
+import type { ULID } from '@coderbyheart/aws-dynamodb-es-cqrs/event/AggregateEvent'
 import assert from 'node:assert/strict'
 import { describe, it } from 'node:test'
 import { ulid } from 'ulidx'
