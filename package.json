@@ -23,7 +23,7 @@
   "prettier": "@bifravst/prettier-config",
   "release": {
     "branches": [
-      "main"
+      "saga"
     ],
     "remoteTags": true,
     "plugins": [
