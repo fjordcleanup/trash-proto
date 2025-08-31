@@ -30,8 +30,7 @@
   "prettier": "@bifravst/prettier-config",
   "lint-staged": {
     "*.ts": [
-      "prettier --write",
-      "eslint"
+      "prettier --write"
     ],
     "*.{md,json,yaml,yml}": [
       "prettier --write"
@@ -57,7 +56,7 @@
   },
   "dependencies": {
     "@coderbyheart/aws-dynamodb-es-cqrs": "^1.0.3",
-    "@sinclair/typebox": "^0.34.40",
+    "@sinclair/typebox": "^0.34.41",
     "ulidx": "^2.4.1"
   }
 }

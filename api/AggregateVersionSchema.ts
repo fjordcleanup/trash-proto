@@ -1,4 +1,4 @@
-import type { AggregateVersion } from '@coderbyheart/aws-dynamodb-es-cqrs/aggregate/AggregateVersion'
+import type { AggregateVersion } from '@coderbyheart/aws-dynamodb-es-cqrs/aggregate'
 import { Type, type TInteger, type TTransform } from '@sinclair/typebox'
 
 export const AggregateVersionSchema: TTransform<TInteger, AggregateVersion> =

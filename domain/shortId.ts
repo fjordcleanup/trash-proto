@@ -1,4 +1,4 @@
-import type { AggregateMeta } from '@coderbyheart/aws-dynamodb-es-cqrs/aggregate/AggregateMeta'
+import type { AggregateMeta } from '@coderbyheart/aws-dynamodb-es-cqrs/aggregate'
 
 export const shortId = ({
 	$meta,

@@ -1,4 +1,4 @@
-import type { ULID } from '@coderbyheart/aws-dynamodb-es-cqrs/event/AggregateEvent'
+import type { ULID } from '@coderbyheart/aws-dynamodb-es-cqrs/event'
 import { Type, type TRegExp, type TTransform } from '@sinclair/typebox'
 
 /**
