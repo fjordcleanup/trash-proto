@@ -55,7 +55,7 @@
     ]
   },
   "dependencies": {
-    "@coderbyheart/aws-dynamodb-es-cqrs": "^1.0.3",
+    "@coderbyheart/aws-dynamodb-es-cqrs": "^1.2.0",
     "@sinclair/typebox": "^0.34.41",
     "ulidx": "^2.4.1"
   }
