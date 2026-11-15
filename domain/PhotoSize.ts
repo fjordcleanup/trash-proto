@@ -1,5 +1,5 @@
 export enum PhotoSize {
-	placeholder = 'placeholder',
-	thumbnail = 'thumbnail',
-	scaled = 'scaled',
+  placeholder = "placeholder",
+  thumbnail = "thumbnail",
+  scaled = "scaled",
 }
